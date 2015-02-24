@@ -1,0 +1,1 @@
+pod 'ECSlidingViewController', '~> 2.0.3'
